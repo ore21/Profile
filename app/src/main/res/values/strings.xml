@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="MyName"> Brandon Gonzalez</string>
+<string name="btnNext">Next</string>
+<string name="txtInfo">Here is something about myself i like programming and designing
+    but most importantly food and exercise are part of my daily activities!</string>
+    </resources>
